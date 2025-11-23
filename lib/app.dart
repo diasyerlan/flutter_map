@@ -14,6 +14,7 @@ class NearbyPointsApp extends StatelessWidget {
       title: 'Nearby Points & Routes',
       theme: ThemeData.light(),
       darkTheme: ThemeData.dark(),
+      debugShowCheckedModeBanner: false,
       themeMode: ThemeMode.system,
       home: BlocProvider(
         create: (_) => MapCubit(
