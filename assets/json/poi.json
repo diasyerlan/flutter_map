@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Starbucks Coffee",
+    "lat": 43.238949,
+    "lng": 76.889709
+  },
+  {
+    "id": 2,
+    "name": "Green Bazaar",
+    "lat": 43.241500,
+    "lng": 76.891200
+  },
+  {
+    "id": 3,
+    "name": "Park Hotel",
+    "lat": 43.236800,
+    "lng": 76.887500
+  },
+  {
+    "id": 4,
+    "name": "Central Park",
+    "lat": 43.240000,
+    "lng": 76.893000
+  },
+  {
+    "id": 5,
+    "name": "Mega Mall",
+    "lat": 43.243000,
+    "lng": 76.886500
+  },
+  {
+    "id": 6,
+    "name": "Sports Stadium",
+    "lat": 43.237200,
+    "lng": 76.892000
+  },
+  {
+    "id": 7,
+    "name": "City Library",
+    "lat": 43.239500,
+    "lng": 76.888000
+  },
+  {
+    "id": 8,
+    "name": "Medical Center",
+    "lat": 43.242800,
+    "lng": 76.890500
+  }
+]
